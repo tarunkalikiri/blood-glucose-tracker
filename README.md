@@ -105,7 +105,6 @@ npm run dev
 
 Frontend: http://localhost:5173
 
-5. Save using Ctrl + S.
 ## API Endpoints
 
 All reading and report endpoints require a valid JWT bearer token.
